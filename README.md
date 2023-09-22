@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Joel Abraham and I'm a Software Engineer, from Sri Lanka</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Coding since 2019<br>📚 I'm currently working as a freelancer<br>🎯 Goals: Reach greatest height in coding and hacking<br>💞️ I’m addicted to Cricket<br>🎲 Fun fact: I'm expert in irritating my loved ones</p>
 
 ###
 
@@ -37,11 +37,6 @@
 </div>
 
 ###
-- 👋 Hi, I’m @JoeAbraham12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 JoeAbraham12/JoeAbraham12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
